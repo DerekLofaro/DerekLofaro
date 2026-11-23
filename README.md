@@ -1,14 +1,9 @@
 
 <div align="center">
 
-# Derek Lofaro
-
 ### Cybersecurity | Systems Engineering | Applied Artificial Intelligence
 
 **Network Security · Application Security · Offensive Security · Security Research · AI & Machine Learning**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
 
 </div>
 
