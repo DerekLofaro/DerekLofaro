@@ -22,44 +22,6 @@ My technical interests encompass the design, analysis, assessment, and security 
 
 I explore both offensive and defensive security disciplines, alongside emerging applications of artificial intelligence, machine learning, and intelligent automation.
 
----
-
-## Technical Domains
-
-| Discipline | Technical Focus |
-|---|---|
-| Network Security | TCP/IP, DNS, HTTP/S, network protocols, traffic analysis |
-| Application Security | OWASP, API security, authentication, secure development |
-| Offensive Security | Reconnaissance, penetration testing, attack surface analysis |
-| Security Research | Vulnerability discovery, exploit analysis, security assessment |
-| Systems Engineering | Linux, Windows, virtualisation, infrastructure administration |
-| AI & Machine Learning | LLMs, RAG, AI agents, intelligent systems, ML applications |
-| DevSecOps | CI/CD security, container security, software supply chain |
-| Security Operations | SIEM, threat intelligence, detection engineering, log analysis |
-
-## Technologies & Platforms
-
-**Programming & Automation**
-
-Python · Ruby · JavaScript · PowerShell · Bash · HTML · CSS
-
-**Infrastructure & Operating Systems**
-
-Linux · Windows · Windows Server · Docker · VMware · VirtualBox
-
-**Security & Observability**
-
-Splunk · Wireshark · Nmap · Burp Suite · OWASP ZAP · Git
-
-**Cloud & Identity**
-
-Microsoft 365 · Microsoft Entra ID · Active Directory · Azure · AWS
-
-**Artificial Intelligence**
-
-Large Language Models · Machine Learning · Retrieval-Augmented Generation · AI Agents · Local LLM Infrastructure
-
----
 
 ## Research & Development
 
