@@ -18,7 +18,7 @@ My technical interests encompass the design, analysis, assessment, and security 
 I explore both offensive and defensive security disciplines, alongside emerging applications of artificial intelligence, machine learning, and intelligent automation.
 
 
-## Research & Development
+## Research and Development
 
 My GitHub serves as a technical portfolio documenting engineering projects, security research, infrastructure experimentation, and software development.
 
